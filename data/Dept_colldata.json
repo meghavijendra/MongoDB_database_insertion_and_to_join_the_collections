@@ -1,0 +1,213 @@
+{"Department1": {
+        "Fname" : "Franklin",
+        "Lname" : "Wong",
+        "Ssn" : "333445555",
+        "Dname" : "Research",
+        "workers" : [
+                {
+                        "Fname" : "John",
+                        "Lname" : "Smith",
+                        "Salary" : "30000",
+                        "Super_ssn" : "333445555"
+
+                },
+                {
+                        "Salary" : "38000",
+                        "Super_ssn" : "333445555"
+                },
+                {
+                        "Fname" : "Joyce",
+                        "Lname" : "English",
+                        "Salary" : "25000",
+                        "Super_ssn" : "333445555"
+                }
+        ]
+},
+"Department2":{
+        "Fname" : "Jennifer",
+        "Lname" : "Wallace",
+        "Ssn" : "987654321",
+        "Dname" : "Administration",
+        "workers" : [
+                {
+                        "Fname" : "Alicia",
+                        "Lname" : "Zelaya",
+                        "Salary" : "25000",
+                        "Super_ssn" : "987654321"
+                },
+                {
+                        "Fname" : "Ahmad",
+                        "Lname" : "Jabbar",
+                        "Salary" : "25000",
+                        "Super_ssn" : "987654321"
+                }
+        ]
+},
+"Department3":{
+        "Fname" : "James",
+        "Lname" : "Borg",
+        "Ssn" : "888665555",
+        "Dname" : "Headquarters",
+        "workers" : [
+                {
+                        "Fname" : "Franklin",
+                        "Lname" : "Wong",
+                        "Salary" : "40000",
+                        "Super_ssn" : "888665555"
+                },
+                {
+                        "Fname" : "Jennifer",
+                        "Lname" : "Wallace",
+                        "Salary" : "43000",
+                        "Super_ssn" : "888665555"
+                },
+                {
+                        "Fname" : "Sheldon",
+                        "Lname" : "Cucuou",
+                        "Salary" : "35500",
+                        "Super_ssn" : "888665555"
+                }
+        ]
+},
+"Department4":{
+        "Fname" : "Jared",
+        "Lname" : "James",
+        "Ssn" : "111111100",
+        "Dname" : "Software",
+        "workers" : [
+                {
+                        "Fname" : "Jon",
+                        "Lname" : "Jones",
+                        "Salary" : "45000",
+                        "Super_ssn" : "111111100"
+                },
+                {
+                        "Fname" : "Justin",
+                        "Lname" : "Mark",
+                        "Salary" : "40000",
+                        "Super_ssn" : "111111100"
+                },
+                {
+                        "Fname" : "Brad",
+                        "Lname" : "Knight",
+                        "Salary" : "44000",
+                        "Super_ssn" : "111111100"
+                },
+                {
+                        "Fname" : "Sunil",
+                        "Lname" : "Gupta",
+                        "Salary" : "80000",
+                        "Super_ssn" : "111111100"
+                }
+        ]
+},
+"Department5":{
+        "Fname" : "Alex",
+        "Lname" : "Freed",
+        "Ssn" : "444444400",
+        "Dname" : "Hardware",
+        "workers" : [
+                {
+                        "Fname" : "Bonnie",
+                        "Lname" : "Bays",
+                        "Salary" : "70000",
+                        "Super_ssn" : "444444400"
+                },
+                {
+                        "Fname" : "Alec",
+                        "Lname" : "Best",
+                        "Salary" : "60000",
+                        "Super_ssn" : "444444400"
+                },
+                {
+                        "Fname" : "Sam",
+                        "Lname" : "Snedden",
+                        "Salary" : "48000",
+                        "Super_ssn" : "444444400"
+                },
+                {
+                        "Fname" : "Jose",
+                        "Lname" : "Barbara",
+                        "Salary" : "35000",
+                        "Super_ssn" : "444444400"
+                },
+                {
+                        "Fname" : "Gregory",
+                        "Lname" : "Laurie",
+                        "Salary" : "90000",
+                        "Super_ssn" : "444444400"
+                },
+                {
+                        "Fname" : "Leonard",
+                        "Lname" : "Moody",
+                        "Salary" : "45000",
+                        "Super_ssn" : "444444400"
+                },
+                {
+                        "Fname" : "Alex",
+                        "Lname" : "Yu",
+                        "Salary" : "50000",
+                        "Super_ssn" : "444444400"
+                }
+        ]
+},
+"Department6":{
+        "Fname" : "John",
+        "Lname" : "James",
+        "Ssn" : "555555500",
+        "Dname" : "Sales",
+        "workers" : [
+                {
+                        "Fname" : "Nandita",
+                        "Lname" : "Ball",
+                        "Salary" : "62000",
+                        "Super_ssn" : "555555500"
+                },
+                {
+                        "Fname" : "Erin",
+                        "Lname" : "Maxfield",
+                        "Salary" : "72000",
+                        "Super_ssn" : "555555500"
+                },
+                {
+                        "Fname" : "Wilson",
+                        "Lname" : "Holmes",
+                        "Salary" : "72500",
+                        "Super_ssn" : "555555500"
+                }
+        ]
+},
+"Department7":{
+        "Fname" : "Juan",
+        "Lname" : "Linda",
+        "Ssn" : "112244668",
+        "Dname" : "HR",
+        "workers" : [
+                {
+                        "Fname" : "willie",
+                        "Lname" : "Mary",
+                        "Salary" : "12000",
+                        "Super_ssn" : "112244668"
+                },
+                {
+                        "Fname" : "Jake",
+                        "Lname" : "Sheen",
+                        "Salary" : "52000",
+                        "Super_ssn" : "112244668"
+                }
+        ]
+},
+"Department8":{
+        "Fname" : "Sunil",
+        "Lname" : "Gupta",
+        "Ssn" : "110110110",
+        "Dname" : "Networking",
+        "workers" : [ ]
+},
+"Department9":{
+        "Fname" : "Joseph",
+        "Lname" : "Kirkish",
+        "Ssn" : "913323708",
+        "Dname" : "QA",
+        "workers" : [ ]
+}}

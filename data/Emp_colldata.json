@@ -1,0 +1,328 @@
+{"Employee1":{
+        "Dname" : "Headquarters",
+        "Fname" : "James",
+        "Lname" : "Borg",
+        "Ssn" : "888665555",
+        "Projects" : [
+                {
+                        "Pname" : "Reorganization",
+                        "Pnumber" : "20",
+                        "Essn" : "888665555",
+                        "Hours" : "5.0"
+                }
+        ]
+},
+"Employee2":{
+        "Dname" : "Research",
+        "Fname" : "Franklin",
+        "Lname" : "Wong",
+        "Ssn" : "333445555",
+        "Projects" : [
+                {
+                        "Pname" : "ProductY",
+                        "Pnumber" : "2",
+                        "Essn" : "333445555",
+                        "Hours" : "10.0"
+                },
+                {
+                        "Pname" : "ProductZ",
+                        "Pnumber" : "3",
+                        "Essn" : "333445555",
+                        "Hours" : "10.0"
+                },
+                {
+                        "Pname" : "Computerization",
+                        "Pnumber" : "10",
+                        "Essn" : "333445555",
+                        "Hours" : "10.0"
+                },
+                {
+                        "Pname" : "Reorganization",
+                        "Pnumber" : "20",
+                        "Essn" : "333445555",
+                        "Hours" : "10.0"
+                }
+        ]
+},
+"Employee3":{
+        "Dname" : "Administration",
+        "Fname" : "Jennifer",
+        "Lname" : "Wallace",
+        "Ssn" : "987654321",
+        "Projects" : [
+                {
+                        "Pname" : "Newbenefits",
+                        "Pnumber" : "30",
+                        "Essn" : "987654321",
+                        "Hours" : "20.0"
+                },
+                {
+                        "Pname" : "Reorganization",
+                        "Pnumber" : "20",
+                        "Essn" : "987654321",
+                        "Hours" : "15.0"
+                }
+        ]
+},
+"Employee4":{
+        "Dname" : "Software",
+        "Fname" : "Jared",
+        "Lname" : "James",
+        "Ssn" : "111111100",
+        "Projects" : [
+                {
+                        "Pname" : "OperatingSystem",
+                        "Pnumber" : "61",
+                        "Essn" : "111111100",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee5":{
+        "Dname" : "Hardware",
+        "Fname" : "Alex",
+        "Lname" : "Freed",
+        "Ssn" : "444444400",
+        "Projects" : [
+                {
+                        "Pname" : "InkjetPrinters",
+                        "Pnumber" : "91",
+                        "Essn" : "444444400",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee6":{
+        "Dname" : "Sales",
+        "Fname" : "John",
+        "Lname" : "James",
+        "Ssn" : "555555500",
+        "Projects" : [
+                {
+                        "Pname" : "LaserPrinters",
+                        "Pnumber" : "92",
+                        "Essn" : "555555500",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee7":{
+        "Dname" : "Research",
+        "Fname" : "John",
+        "Lname" : "Smith",
+        "Ssn" : "123456789",
+        "Projects" : [
+                {
+                        "Pname" : "ProductX",
+                        "Pnumber" : "1",
+                        "Essn" : "123456789",
+                        "Hours" : "32.5"
+                },
+                {
+                        "Pname" : "ProductY",
+                        "Pnumber" : "2",
+                        "Essn" : "123456789",
+                        "Hours" : "7.5"
+                }
+        ]
+},
+"Employee8":{
+        "Dname" : "Administration",
+        "Fname" : "Alicia",
+        "Lname" : "Zelaya",
+        "Ssn" : "999887777",
+        "Projects" : [
+                {
+                        "Pname" : "Newbenefits",
+                        "Pnumber" : "30",
+                        "Essn" : "999887777",
+                        "Hours" : "30.0"
+                },
+                {
+                        "Pname" : "Computerization",
+                        "Pnumber" : "10",
+                        "Essn" : "999887777",
+                        "Hours" : "10.0"
+                }
+        ]
+},
+"Employee9":{
+        "Dname" : "Research",
+        "Fname" : "Ramesh",
+        "Lname" : "Narayan",
+        "Ssn" : "666884444",
+        "Projects" : [
+                {
+                        "Pname" : "ProductZ",
+                        "Pnumber" : "3",
+                        "Essn" : "666884444",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee10":{
+        "Dname" : "Research",
+        "Fname" : "Joyce",
+        "Lname" : "English",
+        "Ssn" : "453453453",
+        "Projects" : [
+                {
+                        "Pname" : "ProductX",
+                        "Pnumber" : "1",
+                        "Essn" : "453453453",
+                        "Hours" : "20.0"
+                },
+                {
+                        "Pname" : "ProductY",
+                        "Pnumber" : "2",
+                        "Essn" : "453453453",
+                        "Hours" : "20.0"
+                }
+        ]
+},
+"Employee11":{
+        "Dname" : "Administration",
+        "Fname" : "Ahmad",
+        "Lname" : "Jabbar",
+        "Ssn" : "987987987",
+        "Projects" : [
+                {
+                        "Pname" : "Computerization",
+                        "Pnumber" : "10",
+                        "Essn" : "987987987",
+                        "Hours" : "35.0"
+                },
+                {
+                        "Pname" : "Newbenefits",
+                        "Pnumber" : "30",
+                        "Essn" : "987987987",
+                        "Hours" : "5.0"
+                }
+        ]
+},
+"Employee12":{
+        "Dname" : "Software",
+        "Fname" : "Jon",
+        "Lname" : "Jones",
+        "Ssn" : "111111101",
+        "Projects" : [
+                {
+                        "Pname" : "OperatingSystem",
+                        "Pnumber" : "61",
+                        "Essn" : "111111101",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee13":{
+        "Dname" : "Software",
+        "Fname" : "Justin",
+        "Lname" : "Mark",
+        "Ssn" : "111111102",
+        "Projects" : [
+                {
+                        "Pname" : "OperatingSystem",
+                        "Pnumber" : "61",
+                        "Essn" : "111111102",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee14":{
+        "Dname" : "Software",
+        "Fname" : "Brad",
+        "Lname" : "Knight",
+        "Ssn" : "111111103",
+        "Projects" : [
+                {
+                        "Pname" : "OperatingSystem",
+                        "Pnumber" : "61",
+                        "Essn" : "111111103",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee15":{
+        "Dname" : "Hardware",
+        "Fname" : "Evan",
+        "Lname" : "Wallis",
+        "Ssn" : "222222200",
+        "Projects" : [
+                {
+                        "Pname" : "DatabaseSystems",
+                        "Pnumber" : "62",
+                        "Essn" : "222222200",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee16":{
+        "Dname" : "Hardware",
+        "Fname" : "Josh",
+        "Lname" : "Zell",
+        "Ssn" : "222222201",
+        "Projects" : [
+                {
+                        "Pname" : "DatabaseSystems",
+                        "Pnumber" : "62",
+                        "Essn" : "222222201",
+                        "Hours" : "48.0"
+                }
+        ]
+},
+"Employee17":{
+        "Dname" : "Hardware",
+        "Fname" : "Andy",
+        "Lname" : "Vile",
+        "Ssn" : "222222202",
+        "Projects" : [
+                {
+                        "Pname" : "DatabaseSystems",
+                        "Pnumber" : "62",
+                        "Essn" : "222222202",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee18":{
+        "Dname" : "Hardware",
+        "Fname" : "Tom",
+        "Lname" : "Brand",
+        "Ssn" : "222222203",
+        "Projects" : [
+                {
+                        "Pname" : "DatabaseSystems",
+                        "Pnumber" : "62",
+                        "Essn" : "222222203",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee19":{
+        "Dname" : "Hardware",
+        "Fname" : "Jenny",
+        "Lname" : "Vos",
+        "Ssn" : "222222204",
+        "Projects" : [
+                {
+                        "Pname" : "DatabaseSystems",
+                        "Pnumber" : "62",
+                        "Essn" : "222222204",
+                        "Hours" : "40.0"
+                }
+        ]
+},
+"Employee20":{
+        "Dname" : "Hardware",
+        "Fname" : "Chris",
+        "Lname" : "Carter",
+        "Ssn" : "222222205",
+        "Projects" : [
+                {
+                        "Pname" : "DatabaseSystems",
+                        "Pnumber" : "62",
+                        "Essn" : "222222205",
+                        "Hours" : "40.0"
+                }
+        ]
+}}
